@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:       | 123 |
+|-----------------|-----|
+| Student Names:  |     |
+| Divyansh Goyal  |     |
+| Curtis Silva    |     |
+| Liam Parmar     |     |
+| Gurpartap Sohi  |     |
 
 **Table of Contents**
 
