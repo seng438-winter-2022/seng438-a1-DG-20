@@ -4,7 +4,6 @@
 
 | Group \#:       | 123 |
 |-----------------|-----|
-| Student Names:  |     |
 | Divyansh Goyal  |     |
 | Curtis Silva    |     |
 | Liam Parmar     |     |
