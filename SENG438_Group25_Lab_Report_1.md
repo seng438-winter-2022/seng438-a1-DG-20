@@ -2,7 +2,7 @@
 # Lab Report \#1 – Introduction to Testing and Defect Tracking
 
 | Group \#:       | 25 |
-|-----------------|----|
+|-----------------|
 | Curtis Silva    |
 | Divyansh Goyal  |
 | Gurpartap Sohi  |
@@ -11,9 +11,6 @@
 <hr>
 
 **Table of Contents**
-
-(When you finish writing, update the following list using right click, then
-“Update Field”)
 
 [1 Introduction](#introduction)
 
