@@ -44,12 +44,17 @@ This assignment intends to provide students a generalized overview of various ty
 ### Introduction
 The following test plan is designed to perform spontaneous, exploratory tests on the ATM Simulation System version 1.0. The intention of these tests is to test all the claimed features in the Requirements section of the ATM Simulation System documentation. The plan will identify the test determination procedures, the tasks performed by each member of the team, the general timeline, and the procedures for reporting observed defects.
 
-| <strong>High Level Function</strong>       | 25 |
+| <strong>High Level Function</strong>       | <strong>Description</strong> |
 |-----------------|----|
-| Divyansh Goyal  |    |
-| Curtis Silva    |    |
-| Liam Parmar     |    |
-| Gurpartap Sohi  |    |
+| Turning system on  | The user should be able to successfully turn the system on, only when the system is currently in the off state.   |
+| Validation of User PIN    | Displays a message when the PIN entered by the user is invalid for the card number associated with it.   |
+| Deposit     | A user can make a deposit to a checking, savings, or money market account. Once the type of account is selected, the ATM system will then prompt the user to enter a positive deposit amount. After pressing enter, a button which represents the user inserting a deposit envelope appears.   |
+| Withdrawal  | A user must be able to withdraw a multiple of $20 from any account provided the account contains enough funds within it.   |
+| Balance inquiry | A user may have one or more accounts and can only see the balance of those accounts that are associated with the card number. |
+| Transferring between accounts | A user can make a transfer of money between any two accounts linked to the card inputted into the ATM. |
+| Receipt | The ATM will provide the user with a receipt after every successful transaction. The receipt will contain information regarding the time, date, location, transaction type, accounts involved, amount, and available balances of the affected accounts. |
+| Timeout | If a user does not input an envelope in a specified time duration when making a deposit in the account, a timeout occurs. |
+| Turning system off | The user should be able to successfully shut the system off only when the system is currently in the “on” state. |
 
 <hr>
 
