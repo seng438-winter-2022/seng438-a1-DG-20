@@ -18,11 +18,11 @@
 
 [1 Introduction	1](#introduction)
 
-[2 High-level description of the exploratory testing plan	1](#introduction)
+[2 High-level description of the exploratory testing plan	1](#high-level-description-of-the-exploratory-testing-plan)
 
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
+[3 Comparison of exploratory and manual functional testing	1](#comparison-of-exploratory-and-manual-functional-testing)
 
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+[4 Notes and discussion of the peer reviews of defect reports	1](#)
 
 [5 How the pair testing was managed and team work/effort was
 divided	1](#_Toc439194681)
