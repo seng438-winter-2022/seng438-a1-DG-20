@@ -1,13 +1,13 @@
 # SENG 438 - Software Testing, Reliability, and Quality
 
-**Lab. Report \#1 – Introduction to Testing and Defect Tracking**
+# Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 | Group \#:       | 25 |
 |-----------------|----|
-| Divyansh Goyal  |    |
 | Curtis Silva    |    |
-| Liam Parmar     |    |
+| Divyansh Goyal  |    |
 | Gurpartap Sohi  |    |
+| Liam Parmar     |    |
 
 <hr>
 
