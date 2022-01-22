@@ -18,7 +18,7 @@
 
 [1 Introduction	1](#_Toc439194677)
 
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+[2 High-level description of the exploratory testing plan	1](#introduction)
 
 [3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
 
