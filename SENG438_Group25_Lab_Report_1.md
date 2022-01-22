@@ -22,6 +22,8 @@
 * [2.1 Introduction](#introduction-1)
 * [2.2 High Level Functions and Descriptions](#high-level-functions-and-descriptions)
 * [2.3 Testing Approach](#testing-approach)
+* [2.4 Test Creation Process](#test-creation-process)
+* [2.5 Justification of Test Plan](#justification-of-test-plan)
 
 [3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
@@ -61,6 +63,13 @@ The following test plan is designed to perform spontaneous, exploratory tests on
 | Turning system off | The user should be able to successfully shut the system off only when the system is currently in the “on” state. |
 
 ### Testing Approach
+The testing approach the testers decided to implement consists of splitting up the group of four into pairs consisting of two members each, where one member of the pair will record defects and bugs on Backlog and the other member will run the executable and implement the tests. Both members of each pair will contribute in determining and running tests. Each pair will perform testing and recording defects on Backlog for approximately half an hour. During the exploratory testing, each pair will test every high-level function and will focus more on functions where more test cases can be implemented. The functions which contain more specifications and steps involved in the process, such as transferring, depositing, and withdrawing will be given more importance during the testing process compared to the other high level functions. One group will focus more on deposits and transfers, whereas the other group will focus more on withdrawals.
+
+### Test Creation Process
+To create tests spontaneously, each pair will first begin with testing features and inputs that theoretically should not cause any errors/bugs. For example, when withdrawing money, the first test will be to withdraw $20 as that requirement is present in the ATM specifications, implying that this condition will be met by the system. Following these tests, each pair will discuss and determine inputs which may potentially cause an error in the system, such as inputting a value which is not a multiple of $20 for withdrawing money, and observing the system’s response. If errors persist, the pair will continue testing similar inputs and try to replicate the error to determine the overall range of the inputs causing errors.
+
+### Justification of Test Plan
+By splitting into pairs, one member can record defects into Backlog while simultaneously brainstorming with the other member regarding tests to run on the ATM Simulation System, thus increasing productivity. Furthermore, by having two teams testing on the same system, not only will there be rigorous testing of each functionality, but there will also be different focuses which will provide a deeper-level understanding of areas causing bugs or errors within each sub-system. By dividing areas of focus, there is a reduction in the chance of overlapping, which will provide a greater variety of errors identified. By testing inputs which have a higher chance of generating successful outputs first, testers can narrow inputs down to the more problematic ones by gaining a deeper understanding of what works and what doesn’t. Exploratory testing provides a benefit due to its adaptable nature, where the tester can intuitively focus on specific problematic areas rather than an even distribution provided by scripted tests.
 
 <hr>
 
