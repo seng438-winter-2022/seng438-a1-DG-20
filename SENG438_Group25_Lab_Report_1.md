@@ -36,12 +36,11 @@ learned](#_Toc439194682)
 
 ## Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This assignment intends to provide students a generalized overview of various types of software testing including exploratory testing, manual scripted testing, and regression testing. In order to perform exploratory testing, students are required to devise a high level plan to test features of an ATM Simulation System extensively and report defects that are determined during the tests. In order to perform the manual scripted testing, students will execute the predetermined test cases sequentially and report any defects. Regression testing will be performed with the updated version of the ATM Simulation System using the test cases that produced defects in the earlier tests and observing whether the previously present defects have been resolved. Prior to this lab, members of the group had a combined understanding that the difference between exploratory and manual functional testing is that exploratory testing is the creation of spontaneous tests while executing tests, while manual functional testing is when there is a predefined set of tests and only those tests are executed. The group believed that the method which is more effective in determining bugs is manual functional testing due to its structural format of fixed tests spanning all functionalities.
 
 <hr>
 
-## High-level description of the exploratory testing plan
+## High-Level Plan for Exploratory Testing
 
 Text…
 
