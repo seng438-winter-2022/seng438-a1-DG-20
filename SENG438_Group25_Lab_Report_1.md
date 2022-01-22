@@ -9,7 +9,7 @@
 | Liam Parmar     |    |
 | Gurpartap Sohi  |    |
 
-<br>
+<hr>
 
 **Table of Contents**
 
