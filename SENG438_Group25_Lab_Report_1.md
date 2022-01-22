@@ -18,7 +18,7 @@
 
 [1 Introduction](#introduction)
 
-[2 High-level description of the exploratory testing plan](#high-level-description-of-the-exploratory-testing-plan)
+[2 High-level description of the exploratory testing plan](#high-level-plan-for-exploratory-testing)
 
 [3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
@@ -41,8 +41,15 @@ This assignment intends to provide students a generalized overview of various ty
 <hr>
 
 ## High-Level Plan for Exploratory Testing
+### Introduction
+The following test plan is designed to perform spontaneous, exploratory tests on the ATM Simulation System version 1.0. The intention of these tests is to test all the claimed features in the Requirements section of the ATM Simulation System documentation. The plan will identify the test determination procedures, the tasks performed by each member of the team, the general timeline, and the procedures for reporting observed defects.
 
-Text…
+| <strong>High Level Function</strong>       | 25 |
+|-----------------|----|
+| Divyansh Goyal  |    |
+| Curtis Silva    |    |
+| Liam Parmar     |    |
+| Gurpartap Sohi  |    |
 
 <hr>
 
