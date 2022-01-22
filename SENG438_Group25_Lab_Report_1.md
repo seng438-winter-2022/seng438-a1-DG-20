@@ -1,6 +1,5 @@
 # SENG 438 - Software Testing, Reliability, and Quality
-
-# Lab. Report \#1 – Introduction to Testing and Defect Tracking**
+# Lab Report \#1 – Introduction to Testing and Defect Tracking
 
 | Group \#:       | 25 |
 |-----------------|----|
@@ -69,7 +68,7 @@ The testing approach the testers decided to implement consists of splitting up t
 To create tests spontaneously, each pair will first begin with testing features and inputs that theoretically should not cause any errors/bugs. For example, when withdrawing money, the first test will be to withdraw $20 as that requirement is present in the ATM specifications, implying that this condition will be met by the system. Following these tests, each pair will discuss and determine inputs which may potentially cause an error in the system, such as inputting a value which is not a multiple of $20 for withdrawing money, and observing the system’s response. If errors persist, the pair will continue testing similar inputs and try to replicate the error to determine the overall range of the inputs causing errors.
 
 ### Justification of Test Plan
-By splitting into pairs, one member can record defects into Backlog while simultaneously brainstorming with the other member regarding tests to run on the ATM Simulation System, thus increasing productivity. Furthermore, by having two teams testing on the same system, not only will there be rigorous testing of each functionality, but there will also be different focuses which will provide a deeper-level understanding of areas causing bugs or errors within each sub-system. By dividing areas of focus, there is a reduction in the chance of overlapping, which will provide a greater variety of errors identified. By testing inputs which have a higher chance of generating successful outputs first, testers can narrow inputs down to the more problematic ones by gaining a deeper understanding of what works and what doesn’t. Exploratory testing provides a benefit due to its adaptable nature, where the tester can intuitively focus on specific problematic areas rather than an even distribution provided by scripted tests.
+By splitting into pairs, one member can record defects into Backlog while simultaneously brainstorming with the other member regarding tests to run on the ATM Simulation System, thus increasing productivity. Furthermore, by having two teams testing on the same system, not only will there be rigorous testing of each functionality, but there will also be different focuses which will provide a deeper-level understanding of areas causing bugs or errors within each sub-system. By dividing areas of focus, there is a reduction in the chance of overlapping test cases, which will provide a greater variety of errors identified. By testing inputs which have a higher chance of generating successful outputs first, testers can narrow inputs down to the more problematic ones by gaining a deeper understanding of what works and what doesn’t. Exploratory testing provides a benefit due to its adaptable nature, where the tester can intuitively focus on specific problematic areas rather than an even distribution provided by scripted tests.
 
 <hr>
 
