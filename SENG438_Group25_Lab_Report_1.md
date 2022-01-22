@@ -19,6 +19,7 @@
 [1 Introduction](#introduction)
 
 [2 High-level description of the exploratory testing plan](#high-level-plan-for-exploratory-testing)
+* [2.1 Introduction](#introduction)
 
 [3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
