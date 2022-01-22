@@ -44,6 +44,7 @@ This assignment intends to provide students a generalized overview of various ty
 ### Introduction
 The following test plan is designed to perform spontaneous, exploratory tests on the ATM Simulation System version 1.0. The intention of these tests is to test all the claimed features in the Requirements section of the ATM Simulation System documentation. The plan will identify the test determination procedures, the tasks performed by each member of the team, the general timeline, and the procedures for reporting observed defects.
 
+### High Level Functions and Descriptions
 | <strong>High Level Function</strong>       | <strong>Description</strong> |
 |-----------------|----|
 | Turning system on  | The user should be able to successfully turn the system on, only when the system is currently in the off state.   |
