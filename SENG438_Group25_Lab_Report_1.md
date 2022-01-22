@@ -21,6 +21,7 @@
 [2 High-Level Plan for Exploratory Testing](#high-level-plan-for-exploratory-testing)
 * [2.1 Introduction](#introduction-1)
 * [2.2 High Level Functions and Descriptions](#high-level-functions-and-descriptions)
+* [2.3 Testing Approach](#testing-approach)
 
 [3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
@@ -58,6 +59,8 @@ The following test plan is designed to perform spontaneous, exploratory tests on
 | Receipt | The ATM will provide the user with a receipt after every successful transaction. The receipt will contain information regarding the time, date, location, transaction type, accounts involved, amount, and available balances of the affected accounts. |
 | Timeout | If a user does not input an envelope in a specified time duration when making a deposit in the account, a timeout occurs. |
 | Turning system off | The user should be able to successfully shut the system off only when the system is currently in the “on” state. |
+
+### Testing Approach
 
 <hr>
 
