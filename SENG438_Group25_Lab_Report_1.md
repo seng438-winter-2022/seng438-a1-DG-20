@@ -2,11 +2,11 @@
 # Lab Report \#1 – Introduction to Testing and Defect Tracking
 
 | Group \#:       | 25 |
-|-----------------|
-| Curtis Silva    |
-| Divyansh Goyal  |
-| Gurpartap Sohi  |
-| Liam Parmar     |
+|-----------------| -- |
+| Curtis Silva    |    |
+| Divyansh Goyal  |    |
+| Gurpartap Sohi  |    |
+| Liam Parmar     |    |
 
 <hr>
 
