@@ -21,7 +21,7 @@
 * [2.4 Test Creation Process](#test-creation-process)
 * [2.5 Justification of Test Plan](#justification-of-test-plan)
 
-[3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
+[3 Insights on Comparisons Between Exploratory Testing and Manual Functional Testing](#insights-on-comparisons-between-exploratory-testing-and-manual-functional-testing)
 
 [4 Notes and discussion of the peer reviews of defect reports](#)
 
@@ -69,7 +69,7 @@ By splitting into pairs, one member can record defects into Backlog while simult
 
 <hr>
 
-## Comparison of exploratory and manual functional testing
+## Insights on Comparisons Between Exploratory Testing and Manual Functional Testing
 
 Text…
 
