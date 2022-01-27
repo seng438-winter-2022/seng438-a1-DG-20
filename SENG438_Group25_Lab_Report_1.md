@@ -29,7 +29,7 @@
 
 [6 Lessons Learned from Teamwork](#lessons-learned-from-teamwork)
 
-[7 Difficulties Encountered, Challenges Overcome, and Lessons Learned](#difficulties-encountered,-challenges-overcome,-and-lessons-learned)
+[7 Difficulties Encountered, Challenges Overcome, and Lessons Learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
 <hr>
 
