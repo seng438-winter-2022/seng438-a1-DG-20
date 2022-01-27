@@ -27,8 +27,7 @@
 
 [5 Pair Testing Management and Division of Responsibilities](#pair-testing-management-and-division-of-responsibilities)
 
-[6 Difficulties encountered, challenges overcome, and lessons
-learned](#_Toc439194682)
+[6 Lessons Learned from Teamwork](#lessons-learned-from-teamwork)
 
 [7 Comments/feedback on the lab and lab document itself](#_Toc439194683)
 
