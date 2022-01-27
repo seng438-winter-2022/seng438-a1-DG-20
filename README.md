@@ -1,7 +1,7 @@
 # seng438-assignment-1
 
 # Group 25 Submission
-- Submission documents (defects report as an Excel file and lab report as a markdown file) in folder titled [Deliverables](#deliverables).
+- Submission documents (defects report as an Excel file and lab report as a markdown file) in folder titled Deliverables.
 
 # Guidline
 - read [assignment guideline](seng438-assignment-1.md) 
