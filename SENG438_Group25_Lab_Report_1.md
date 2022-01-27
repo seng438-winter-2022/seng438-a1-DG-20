@@ -88,6 +88,11 @@ The detailed plan for pair testing and the division of focus on high level requi
 
 <hr>
 
+## Lessons Learned from Teamwork
+Working extensively in a team to thoroughly test the provided ATM Simulation System allowed the group to gain a lot of insight. One of the biggest lessons provided by this exercise was that the creation of a clear and organized plan/strategy and division of responsibilities ensures that all group members are aware of their roles and this creates a more cohesive team. A well-defined plan also allows the team to work efficiently as every member has the same objective and knows all of the steps needed to achieve that objective. This was evident in the exploratory testing process as both pairs did not discover many duplicate bugs. Furthermore, teamwork allows processes to be completed much faster as different individuals perform different tasks simultaneously, which greatly decreases the operation time. An example of this was when the group divided tasks during the regression testing phase. Here, one individual of the group was running the tests on the ATM Simulation System, another was reading out the steps to reproduce each recorded bug and the input required to recreate it, another group member was creating new defect reports for newly discovered bugs, and finally the last group member was marking the current defects as “in-progress” or “resolved” according to feedback received from the member testing on the system. Through these lessons learned, the importance of teamwork and proper communication became very evident.
+
+<hr>
+
 ## Difficulties encountered, challenges overcome, and lessons learned
 
 Text…
