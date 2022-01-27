@@ -100,5 +100,4 @@ Some difficulties encountered during the lab came from the interpretation of the
 <hr>
 
 ## Comments and Feedback on The Lab Assignment
-
-Text…
+This lab allowed us to better understand the different testing processes used to determine defects in software, while working in a collaborative environment. This lab also provided us insight on defect reporting systems used in the industry, such as Backlog. Overall, it taught us how to work effectively as a team and use each other's strengths to achieve a common goal. However, we did find the instructions for this lab to be ambiguous at times, specifically the manual scripted testing. They did not provide a clear set of steps to follow in order to replicate the tests, especially tests 36-40. This required us to contact the Teaching Assistant to clear any misconceptions and direct us in the proper direction. From them, we were able to get a quick and clear response which helped to address our issues and concerns. A suggestion for the future would be to include an example of the bug reports so that students can use it as a template to standardize reports. This lab assignment overall was really interesting and interacting with the ATM Simulation System was very fun.
