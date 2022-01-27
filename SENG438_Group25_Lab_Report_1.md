@@ -29,7 +29,7 @@
 
 [6 Lessons Learned from Teamwork](#lessons-learned-from-teamwork)
 
-[7 Comments/feedback on the lab and lab document itself](#_Toc439194683)
+[7 Difficulties Encountered, Challenges Overcome, and Lessons Learned](#difficulties-encountered,-challenges-overcome,-and-lessons-learned)
 
 <hr>
 
@@ -92,7 +92,7 @@ Working extensively in a team to thoroughly test the provided ATM Simulation Sys
 
 <hr>
 
-## Difficulties encountered, challenges overcome, and lessons learned
+## Difficulties Encountered, Challenges Overcome, and Lessons Learned
 
 Text…
 
