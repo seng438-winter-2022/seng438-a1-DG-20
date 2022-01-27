@@ -31,6 +31,8 @@
 
 [7 Difficulties Encountered, Challenges Overcome, and Lessons Learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
+[8 Comments and Feedback on The Lab Assignment](#comments-and-feedback-on-the-lab-assignment)
+
 <hr>
 
 ## Introduction
@@ -93,11 +95,10 @@ Working extensively in a team to thoroughly test the provided ATM Simulation Sys
 <hr>
 
 ## Difficulties Encountered, Challenges Overcome, and Lessons Learned
-
-Text…
+Some difficulties encountered during the lab came from the interpretation of the instructions given in the lab document. For example, when entering the regression testing stage we weren’t sure whether or not to repeat every test or just the bugs we reported from the manual scripted testing. The way we overcame these challenges was by emailing the Teacher Assistance for clarification through the testing phase when we had any doubts. Another difficulty that we encountered was during the exploratory testing. Coming up with a plan for our own tests for the first time proved quite difficult when trying to create unique test cases that would prove useful in finding various bugs within the ATM Simulation System. Through proper planning and thinking around unique edge cases we were able to come up with interesting and unique bugs during the exploratory testing phase across both pairs. Furthermore, brainstorming was a significant part of overcoming this challenge, as constant communication between members of the pair facilitated the test creation process. Lessons that were learned during the lab were a general idea of how to conduct the different software testing processes such as exploratory testing, manual scripted testing, and regression testing. Furthermore, this was the group’s first encounter in creating a plan and testing order for exploratory testing and manual scripted testing respectively, which provided insight into the testing process.
 
 <hr>
 
-## Comments/feedback on the lab and lab document itself
+## Comments and Feedback on The Lab Assignment
 
 Text…
