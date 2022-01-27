@@ -23,7 +23,7 @@
 
 [3 Insights on Comparisons Between Exploratory Testing and Manual Functional Testing](#insights-on-comparisons-between-exploratory-testing-and-manual-functional-testing)
 
-[4 Notes and discussion of the peer reviews of defect reports](#)
+[4 Notes on The Peer Review Process and Reporting Defects as A Group](#notes-on-the-peer-review-process-and-reporting-defects-as-a-group)
 
 [5 How the pair testing was managed and team work/effort was
 divided](#_Toc439194681)
@@ -79,9 +79,8 @@ Manual functional testing provided an advantage in efficiency. Since the 40 test
     
 <hr>
 
-## Notes and discussion of the peer reviews of defect reports
-
-Text…
+## Notes on The Peer Review Process and Reporting Defects as A Group
+The peer review was conducted by each pair coming together to discuss their recorded bug results after executing the exploratory testing plan. When discussing, the first pair began by reporting the defects they encountered for a certain high level requirement, which was followed by the second pair discussing the defects they found for the same requirement. This process was carried out for each high level requirement. The first pair, who focused more on testing deposits and balance inquiries of the ATM system, discovered and documented 11 defects. Specifically one receipt defect, four deposit defects, one withdrawal defect, three balance inquiry defects, one transfer defect, and one session defect. The second pair, who focused more on testing withdrawals and transfer transactions, discovered and documented 9 defects. The second group recorded four withdrawal defects, one deposit defect, two balance inquiry defects, and two transfer defects. In reviewing defects found for all high level requirements, the pairs were able to catch similar defects and determine whether they were unique in nature. One withdrawal defect, two balance inquiry defects, and one transfer defect were determined to be duplicates for a total of 4 duplicate defects. The group then reported each defect to the backlog software and decided to report one of the duplicate defects as a regular defect, and marked the other with a “[DUPLICATE]” tag in the title.
 
 <hr>
 
