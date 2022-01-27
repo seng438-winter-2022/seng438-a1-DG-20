@@ -25,8 +25,7 @@
 
 [4 Notes on The Peer Review Process and Reporting Defects as A Group](#notes-on-the-peer-review-process-and-reporting-defects-as-a-group)
 
-[5 How the pair testing was managed and team work/effort was
-divided](#_Toc439194681)
+[5 Pair Testing Management and Division of Responsibilities](#pair-testing-management-and-division-of-responsibilities)
 
 [6 Difficulties encountered, challenges overcome, and lessons
 learned](#_Toc439194682)
@@ -84,9 +83,8 @@ The peer review was conducted by each pair coming together to discuss their reco
 
 <hr>
 
-## How the pair testing was managed and team work/effort was divided 
-
-Text…
+## Pair Testing Management and Division of Responsibilities
+The detailed plan for pair testing and the division of focus on high level requirements is explored in detail in the section [2.3](#testing-approach). According to the plan, the pairing was made so that one pair consisted of Divyansh and Curtis, and the other pair consisted of Liam and Gurpartap. Each pair divided the work of exploratory testing amongst themselves with one member performing the driving of the testing using the jar file while sharing their screen and the other keeping track of the discovered defects, in detail. Before commencing testing, the group discussed which of the ATM Simulation System’s high-level requirements to focus on more, in order to avoid overlapping. This was done to make the exploratory testing more efficient among the group and provide greater insight into defective areas of the system.
 
 <hr>
 
